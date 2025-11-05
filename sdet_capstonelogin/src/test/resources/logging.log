@@ -1,0 +1,535 @@
+2025-10-31 15:09:48 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:09:48 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:09:49 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:09:56 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:10:02 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:10:07 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:10:08 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:10:14 INFO  Feature:63 - Click view cart button
+2025-10-31 15:10:14 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:10:15 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:10:15 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:10:16 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:11:13 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:11:14 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:11:16 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:11:23 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:11:27 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:11:31 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:11:32 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:11:37 INFO  Feature:63 - Click view cart button
+2025-10-31 15:11:37 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:11:38 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:11:38 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:11:39 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:12:47 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:12:48 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:12:48 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:12:54 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:12:59 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:13:03 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:13:04 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:13:09 INFO  Feature:63 - Click view cart button
+2025-10-31 15:13:09 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:13:11 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:13:11 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:13:12 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:14:38 INFO  TestingClass:77 - Browser closed
+2025-10-31 15:14:51 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:14:51 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:14:53 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:14:59 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:15:03 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:15:07 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:15:08 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:15:13 INFO  Feature:63 - Click view cart button
+2025-10-31 15:15:13 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:15:14 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:15:14 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:15:15 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:16:43 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:16:43 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:16:44 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:16:50 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:16:54 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:16:57 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:16:58 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:17:03 INFO  Feature:63 - Click view cart button
+2025-10-31 15:17:03 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:17:05 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:17:05 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:17:19 INFO  Feature:103 - Order placed successfully
+2025-10-31 15:17:20 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:18:11 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:18:11 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:18:11 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:18:15 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:18:21 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:18:26 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:18:27 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:18:32 INFO  Feature:63 - Click view cart button
+2025-10-31 15:18:32 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:18:32 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:18:32 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:18:44 INFO  Feature:103 - Order placed successfully
+2025-10-31 15:18:45 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:26:14 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:26:14 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:26:15 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:26:22 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:26:25 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:26:30 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:26:31 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:26:35 INFO  Feature:63 - Click view cart button
+2025-10-31 15:26:35 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:26:36 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:26:36 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:26:38 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:28:00 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:28:01 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:28:02 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:28:08 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:28:12 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:28:16 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:28:17 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:28:22 INFO  Feature:63 - Click view cart button
+2025-10-31 15:28:22 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:28:23 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:28:23 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:28:24 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:30:22 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:30:22 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:30:22 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:30:29 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:30:38 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 15:30:44 INFO  Feature:51 - Product size is choosed
+2025-10-31 15:30:46 INFO  Feature:57 - Product is added to cart
+2025-10-31 15:30:53 INFO  Feature:63 - Click view cart button
+2025-10-31 15:30:53 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 15:30:56 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 15:30:56 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 15:31:14 INFO  Feature:103 - Order placed successfully
+2025-10-31 15:31:15 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:59:09 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:59:09 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:59:12 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:59:17 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 15:59:46 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 15:59:47 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 15:59:48 INFO  Feature:29 - Homepage loaded
+2025-10-31 15:59:55 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 15:59:59 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 16:00:03 INFO  Feature:51 - Product size is choosed
+2025-10-31 16:00:04 INFO  Feature:57 - Product is added to cart
+2025-10-31 16:00:10 INFO  Feature:63 - Click view cart button
+2025-10-31 16:00:10 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 16:00:11 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 16:00:11 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 16:00:12 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 16:02:03 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 16:02:03 INFO  Feature:23 - Browser already launched via Hooks
+2025-10-31 16:02:05 INFO  Feature:29 - Homepage loaded
+2025-10-31 16:02:12 INFO  Feature:39 - Men's new arrival page is displayed
+2025-10-31 16:02:17 INFO  Feature:45 - Selected Product is displayed
+2025-10-31 16:02:22 INFO  Feature:51 - Product size is choosed
+2025-10-31 16:02:22 INFO  Feature:57 - Product is added to cart
+2025-10-31 16:02:28 INFO  Feature:63 - Click view cart button
+2025-10-31 16:02:28 INFO  Feature:68 - Product is visible in the cart
+2025-10-31 16:02:29 INFO  Feature:74 - Click checkout button for deliver product
+2025-10-31 16:02:29 INFO  Feature:79 - Checkout page is displayed
+2025-10-31 16:02:40 INFO  Feature:103 - Order placed successfully
+2025-10-31 16:02:42 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:01:27 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:01:27 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:01:27 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:01:35 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:03:46 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:03:46 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:03:47 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:03:55 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:04:07 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:04:08 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:04:09 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:04:18 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:05:56 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:05:56 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:05:57 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:06:07 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:07:52 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:07:52 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:07:52 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:08:01 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:08:02 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:08:06 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:08:07 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:08:11 INFO  Feature:66 - Click view cart button
+2025-10-31 17:08:11 INFO  Feature:71 - Product is visible in the cart
+2025-10-31 17:08:12 INFO  Feature:77 - Click checkout button for deliver product
+2025-10-31 17:08:12 INFO  Feature:82 - Checkout page is displayed
+2025-10-31 17:08:14 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:20:54 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:20:55 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:20:57 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:21:07 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:21:09 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:21:14 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:21:15 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:21:21 INFO  Feature:66 - Click view cart button
+2025-10-31 17:21:23 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:23:01 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:23:01 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:23:03 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:23:12 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:23:13 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:23:17 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:23:18 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:23:24 INFO  Feature:66 - Click view cart button
+2025-10-31 17:23:35 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:26:08 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:26:08 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:26:10 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:26:19 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:26:23 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:26:29 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:26:32 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:26:39 INFO  Feature:66 - Click view cart button
+2025-10-31 17:26:41 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:29:41 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:29:41 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:29:49 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:29:58 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:30:00 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:30:07 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:30:10 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:30:16 INFO  Feature:66 - Click view cart button
+2025-10-31 17:30:17 INFO  Feature:72 - Product is visible in the cart
+2025-10-31 17:30:18 INFO  Feature:78 - Click checkout button for deliver product
+2025-10-31 17:30:18 INFO  Feature:83 - Checkout page is displayed
+2025-10-31 17:30:19 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:37:37 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:37:37 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:37:38 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:37:49 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:37:51 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:37:55 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:37:57 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:38:01 INFO  Feature:66 - Click view cart button
+2025-10-31 17:38:01 INFO  Feature:72 - Product is visible in the cart
+2025-10-31 17:38:02 INFO  Feature:78 - Click checkout button for deliver product
+2025-10-31 17:38:04 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:39:31 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:39:31 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:39:31 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:39:45 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:39:59 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:39:59 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:39:59 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:40:09 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:40:10 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:40:14 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:40:16 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:40:20 INFO  Feature:66 - Click view cart button
+2025-10-31 17:40:21 INFO  Feature:72 - Product is visible in the cart
+2025-10-31 17:40:22 INFO  Feature:78 - Click checkout button for deliver product
+2025-10-31 17:40:23 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:41:59 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:41:59 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:42:00 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:42:08 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:42:09 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:42:12 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:42:13 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:42:18 INFO  Feature:66 - Click view cart button
+2025-10-31 17:42:18 INFO  Feature:72 - Product is visible in the cart
+2025-10-31 17:42:19 INFO  Feature:78 - Click checkout button for deliver product
+2025-10-31 17:42:21 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:43:35 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:43:36 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:43:36 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:43:45 INFO  Feature:42 - Men's new arrival page is displayed
+2025-10-31 17:43:46 INFO  Feature:48 - Selected Product is displayed
+2025-10-31 17:43:50 INFO  Feature:54 - Product size is choosed
+2025-10-31 17:43:50 INFO  Feature:60 - Product is added to cart
+2025-10-31 17:43:55 INFO  Feature:66 - Click view cart button
+2025-10-31 17:43:55 INFO  Feature:72 - Product is visible in the cart
+2025-10-31 17:43:55 INFO  Feature:78 - Click checkout button for deliver product
+2025-10-31 17:43:56 INFO  Feature:84 - Checkout page is displayed
+2025-10-31 17:44:09 INFO  Feature:108 - Order placed successfully
+2025-10-31 17:44:12 INFO  Hooks:24 - Browser closed after all scenarios
+2025-10-31 17:45:09 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-10-31 17:45:10 INFO  Feature:25 - Browser already launched via Hooks
+2025-10-31 17:45:10 INFO  Feature:31 - Homepage loaded
+2025-10-31 17:45:19 INFO  Hooks:24 - Browser closed after all scenarios
+2025-11-02 18:32:59 INFO  TestingClass:38 - Men's new arrival page is displayed
+2025-11-02 18:33:08 INFO  TestingClass:44 - Selected Product is displayed
+2025-11-02 18:33:44 INFO  TestingClass:46 - Product size is choosed
+2025-11-02 18:33:46 INFO  TestingClass:48 - Product is added to cart
+2025-11-02 18:33:51 INFO  TestingClass:50 - Click view cart button
+2025-11-02 18:33:51 INFO  TestingClass:77 - Browser closed
+2025-11-02 18:34:55 INFO  TestingClass:38 - Men's new arrival page is displayed
+2025-11-02 18:35:08 INFO  TestingClass:44 - Selected Product is displayed
+2025-11-02 18:35:13 INFO  TestingClass:77 - Browser closed
+2025-11-05 09:32:01 INFO  Hooks:18 - Browser launched once before all scenarios
+2025-11-05 09:32:01 INFO  Feature:25 - Browser already launched via Hooks
+2025-11-05 09:32:01 INFO  Feature:31 - Homepage loaded
+2025-11-05 09:32:19 INFO  Hooks:24 - Browser closed after all scenarios
+2025-11-05 09:48:52 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:48:53 INFO  TestingClass:94 - Browser closed
+2025-11-05 09:50:01 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:50:12 INFO  TestingClass:94 - Browser closed
+2025-11-05 09:52:02 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:52:03 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 09:52:08 INFO  TestingClass:43 - Login button clicked
+2025-11-05 09:52:13 INFO  TestingClass:94 - Browser closed
+2025-11-05 09:52:54 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:52:55 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 09:52:57 INFO  TestingClass:43 - Login button clicked
+2025-11-05 09:53:00 INFO  TestingClass:45 - Email & password login option selected
+2025-11-05 09:53:03 INFO  TestingClass:56 - Men's new arrival page is displayed
+2025-11-05 09:54:44 INFO  TestingClass:94 - Browser closed
+2025-11-05 09:58:44 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:58:44 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 09:58:47 INFO  TestingClass:92 - Browser closed
+2025-11-05 09:59:37 INFO  TestingClass:39 - Starting login process...
+2025-11-05 09:59:37 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 09:59:40 INFO  TestingClass:43 - Login button clicked
+2025-11-05 09:59:49 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:00:14 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:00:14 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:00:17 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:00:47 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:00:48 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:00:53 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:02:12 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:02:12 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:02:15 INFO  TestingClass:43 - Login button clicked
+2025-11-05 10:02:22 INFO  TestingClass:45 - Email & password login option selected
+2025-11-05 10:02:29 INFO  TestingClass:53 - Men's new arrival page is displayed
+2025-11-05 10:02:37 INFO  TestingClass:59 - Selected Product is displayed
+2025-11-05 10:02:41 INFO  TestingClass:61 - Product size is chosen
+2025-11-05 10:02:42 INFO  TestingClass:63 - Product is added to cart
+2025-11-05 10:02:47 INFO  TestingClass:65 - Click view cart button
+2025-11-05 10:02:48 INFO  TestingClass:71 - Click checkout button for delivery
+2025-11-05 10:02:49 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:16:47 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:16:48 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:16:51 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:18:38 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:18:39 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:18:42 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:19:39 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:19:39 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:19:43 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:20:32 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:20:32 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:20:36 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:22:28 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:22:28 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:22:32 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:24:47 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:24:47 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:24:50 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:25:16 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:25:16 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:25:19 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:26:15 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:26:16 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:26:19 INFO  TestingClass:43 - Login button clicked
+2025-11-05 10:26:22 INFO  TestingClass:45 - Email & password login option selected
+2025-11-05 10:26:28 INFO  TestingClass:53 - Men's new arrival page is displayed
+2025-11-05 10:26:43 INFO  TestingClass:59 - Selected Product is displayed
+2025-11-05 10:26:54 INFO  TestingClass:61 - Product size is chosen
+2025-11-05 10:26:54 INFO  TestingClass:63 - Product is added to cart
+2025-11-05 10:27:13 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:27:38 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:27:39 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:27:42 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:29:09 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:29:10 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:29:13 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:33:19 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:33:19 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:33:22 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:35:21 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:35:21 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:35:24 INFO  TestingClass:43 - Login button clicked
+2025-11-05 10:35:28 INFO  TestingClass:45 - Email & password login option selected
+2025-11-05 10:35:35 INFO  TestingClass:53 - Men's new arrival page is displayed
+2025-11-05 10:35:38 INFO  TestingClass:59 - Selected Product is displayed
+2025-11-05 10:35:42 INFO  TestingClass:61 - Product size is chosen
+2025-11-05 10:35:43 INFO  TestingClass:63 - Product is added to cart
+2025-11-05 10:35:48 INFO  TestingClass:65 - Click view cart button
+2025-11-05 10:35:49 INFO  TestingClass:71 - Click checkout button for delivery
+2025-11-05 10:35:50 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:39:55 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:39:56 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:39:59 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:40:56 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:40:57 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:41:02 INFO  TestingClass:43 - Login button clicked
+2025-11-05 10:41:07 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:43:53 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:43:53 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:43:56 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:44:48 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:44:48 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:44:52 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:46:06 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:46:07 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:46:11 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:51:06 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:51:06 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:51:10 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:53:12 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:53:13 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:53:16 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:53:40 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:53:41 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:53:44 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:55:34 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:55:35 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:55:38 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:56:22 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:56:23 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:56:26 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:56:40 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:56:41 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:56:44 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:57:12 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:57:13 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:57:16 INFO  TestingClass:91 - Browser closed
+2025-11-05 10:58:38 INFO  TestingClass:39 - Starting login process...
+2025-11-05 10:58:38 INFO  TestingClass:41 - Profile button clicked
+2025-11-05 10:58:41 INFO  TestingClass:43 - Login button clicked
+2025-11-05 10:58:46 INFO  TestingClass:45 - Email & password login option selected
+2025-11-05 10:58:52 INFO  TestingClass:53 - Men's new arrival page is displayed
+2025-11-05 10:58:56 INFO  TestingClass:59 - Selected Product is displayed
+2025-11-05 11:00:36 INFO  TestingClass:91 - Browser closed
+2025-11-05 12:24:00 INFO  Feature:23 - Browser launched
+2025-11-05 12:24:00 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:24:12 INFO  Feature:37 - Login page opened
+2025-11-05 12:24:15 INFO  Feature:43 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:24:15 INFO  Feature:61 - Clicked login button
+2025-11-05 12:24:37 INFO  Feature:23 - Browser launched
+2025-11-05 12:24:38 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:25:48 INFO  Feature:23 - Browser launched
+2025-11-05 12:25:48 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:26:31 INFO  Feature:23 - Browser launched
+2025-11-05 12:26:31 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:27:03 INFO  Feature:23 - Browser launched
+2025-11-05 12:28:28 INFO  Feature:23 - Browser launched
+2025-11-05 12:28:29 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:28:41 INFO  Feature:37 - Login page opened
+2025-11-05 12:28:45 INFO  Feature:43 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:28:45 INFO  Feature:61 - Clicked login button
+2025-11-05 12:28:57 INFO  Feature:23 - Browser launched
+2025-11-05 12:28:58 INFO  Feature:29 - Homepage loaded
+2025-11-05 12:29:11 INFO  Feature:37 - Login page opened
+2025-11-05 12:29:16 INFO  Feature:43 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-05 12:29:17 INFO  Feature:61 - Clicked login button
+2025-11-05 12:32:34 INFO  Feature:22 - Browser launched
+2025-11-05 12:32:35 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:32:45 INFO  Feature:36 - Login page opened
+2025-11-05 12:32:47 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:32:48 INFO  Feature:60 - Clicked login button
+2025-11-05 12:33:05 INFO  Feature:22 - Browser launched
+2025-11-05 12:33:05 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:34:20 INFO  Feature:22 - Browser launched
+2025-11-05 12:34:21 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:34:33 INFO  Feature:36 - Login page opened
+2025-11-05 12:34:36 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:34:36 INFO  Feature:60 - Clicked login button
+2025-11-05 12:34:52 INFO  Feature:22 - Browser launched
+2025-11-05 12:34:52 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:35:01 INFO  Feature:36 - Login page opened
+2025-11-05 12:35:03 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-05 12:35:04 INFO  Feature:60 - Clicked login button
+2025-11-05 12:35:04 INFO  Feature:49 - Login successful
+2025-11-05 12:36:54 INFO  Feature:22 - Browser launched
+2025-11-05 12:36:55 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:37:12 INFO  Feature:22 - Browser launched
+2025-11-05 12:37:29 INFO  Feature:22 - Browser launched
+2025-11-05 12:37:29 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:37:39 INFO  Feature:36 - Login page opened
+2025-11-05 12:37:42 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:37:42 INFO  Feature:60 - Clicked login button
+2025-11-05 12:37:53 INFO  Feature:22 - Browser launched
+2025-11-05 12:37:53 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:39:38 INFO  Feature:22 - Browser launched
+2025-11-05 12:39:38 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:40:21 INFO  Feature:22 - Browser launched
+2025-11-05 12:40:21 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:40:29 INFO  Feature:36 - Login page opened
+2025-11-05 12:40:32 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 12:40:32 INFO  Feature:60 - Clicked login button
+2025-11-05 12:40:43 INFO  Feature:22 - Browser launched
+2025-11-05 12:40:45 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:40:55 INFO  Feature:36 - Login page opened
+2025-11-05 12:40:58 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-05 12:40:58 INFO  Feature:60 - Clicked login button
+2025-11-05 12:40:58 INFO  Feature:49 - Login successful
+2025-11-05 12:41:23 INFO  Feature:22 - Browser launched
+2025-11-05 12:41:23 INFO  Feature:28 - Homepage loaded
+2025-11-05 12:41:56 INFO  Feature:22 - Browser launched
+2025-11-05 12:41:57 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:25:10 INFO  Feature:22 - Browser launched
+2025-11-05 13:25:11 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:25:29 INFO  Feature:22 - Browser launched
+2025-11-05 13:26:10 INFO  Feature:22 - Browser launched
+2025-11-05 13:26:10 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:26:19 INFO  Feature:36 - Login page opened
+2025-11-05 13:26:22 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 13:26:22 INFO  Feature:60 - Clicked login button
+2025-11-05 13:26:40 INFO  Feature:22 - Browser launched
+2025-11-05 13:26:41 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:27:22 INFO  Feature:22 - Browser launched
+2025-11-05 13:27:22 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:27:48 INFO  Feature:22 - Browser launched
+2025-11-05 13:27:49 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:28:33 INFO  Feature:22 - Browser launched
+2025-11-05 13:28:33 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:29:54 INFO  Feature:22 - Browser launched
+2025-11-05 13:29:54 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:30:29 INFO  Feature:22 - Browser launched
+2025-11-05 13:30:29 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:30:58 INFO  Feature:22 - Browser launched
+2025-11-05 13:30:59 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:35:03 INFO  Feature:22 - Browser launched
+2025-11-05 13:35:03 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:35:13 INFO  Feature:36 - Login page opened
+2025-11-05 13:35:16 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 13:35:16 INFO  Feature:60 - Clicked login button
+2025-11-05 13:35:31 INFO  Feature:22 - Browser launched
+2025-11-05 13:35:31 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:36:04 INFO  Feature:22 - Browser launched
+2025-11-05 13:36:04 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:36:50 INFO  Feature:22 - Browser launched
+2025-11-05 13:36:50 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:37:16 INFO  Feature:22 - Browser launched
+2025-11-05 13:37:17 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:39:20 INFO  Feature:22 - Browser launched
+2025-11-05 13:39:20 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:40:03 INFO  Feature:22 - Browser launched
+2025-11-05 13:40:04 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:40:18 INFO  Feature:22 - Browser launched
+2025-11-05 13:40:19 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:40:41 INFO  Feature:22 - Browser launched
+2025-11-05 13:40:41 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:41:22 INFO  Feature:22 - Browser launched
+2025-11-05 13:41:23 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:41:31 INFO  Feature:36 - Login page opened
+2025-11-05 13:41:34 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-05 13:41:34 INFO  Feature:60 - Clicked login button
+2025-11-05 13:42:40 INFO  Feature:22 - Browser launched
+2025-11-05 13:42:40 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:43:34 INFO  Feature:22 - Browser launched
+2025-11-05 13:43:34 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:44:22 INFO  Feature:22 - Browser launched
+2025-11-05 13:44:22 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:44:56 INFO  Feature:22 - Browser launched
+2025-11-05 13:44:56 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:45:12 INFO  Feature:22 - Browser launched
+2025-11-05 13:45:13 INFO  Feature:28 - Homepage loaded
+2025-11-05 13:46:46 INFO  Feature:22 - Browser launched
+2025-11-05 13:47:44 INFO  Feature:22 - Browser launched
+2025-11-05 13:47:44 INFO  Feature:28 - Homepage loaded

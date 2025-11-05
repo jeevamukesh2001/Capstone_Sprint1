@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="BROWSER" value="chrome"/>
+  <test thread-count="5" name="Ecommerce Tests(failed)">
+    <classes>
+      <class name="ecommerce_cart.tests.TestingClass">
+        <methods>
+          <include name="verifyApparelText"/>
+          <include name="verifyElectronicsText"/>
+          <include name="setUp"/>
+          <include name="logoutAfterEachTest"/>
+          <include name="verifyComputerText"/>
+          <include name="tearDown"/>
+          <include name="loginBeforeEachTest"/>
+        </methods>
+      </class> <!-- ecommerce_cart.tests.TestingClass -->
+    </classes>
+  </test> <!-- Ecommerce Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->

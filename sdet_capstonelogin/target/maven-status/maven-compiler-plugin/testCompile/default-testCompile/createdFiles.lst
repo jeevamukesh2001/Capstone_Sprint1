@@ -1,0 +1,12 @@
+stepdefinitions\Registration.class
+utilities\configreader.class
+pages\Checkout.class
+stepdefinitions\Product.class
+tests\TestingClass.class
+stepdefinitions\Checkout.class
+testrunner\testrunner.class
+pages\Product.class
+pages\Homepage.class
+pages\Registration.class
+stepdefinitions\Homepage.class
+utilities\CommonMethods.class
