@@ -30,7 +30,7 @@ public class Feature extends CommonMethods {
     
     @And("the user is on the login page")
     public void user_on_login_page() throws InterruptedException {
-        login.profile();
+        login.clickProfile();
         login.loginclick();
         login.credentialslink();
         log.info("Login page opened");
@@ -41,22 +41,24 @@ public class Feature extends CommonMethods {
         login.credentialsdata(username, password);
         log.info("Entered credentials: " + username);
     }
+    
+    @And("clicks the login button")
+    public void click_login_button() {
+        login.submitlogin();
+        log.info("Clicked login button");
+    }
 
     @Then("the login result should be {string}")
     public void verify_login_result(String expectedResult) {
         if (expectedResult.equalsIgnoreCase("success")) {
             Assert.assertEquals(dr.getTitle(), "PUMA.COM | Forever Faster");
             log.info("Login successful");
+            closeBrowser();
         } else {
             String errorMsg = login.getErrorMessage();
-            Assert.assertEquals(errorMsg, "Expected error message not displayed!");
+            Assert.assertEquals(errorMsg, "Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.");
             log.info("Error message displayed: " + errorMsg);
+            closeBrowser();
         }
-    }
-
-    @And("clicks the login button")
-    public void click_login_button() {
-        login.submitlogin();
-        log.info("Clicked login button");
     }
 }

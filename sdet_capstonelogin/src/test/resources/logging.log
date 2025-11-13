@@ -533,3 +533,147 @@
 2025-11-05 13:46:46 INFO  Feature:22 - Browser launched
 2025-11-05 13:47:44 INFO  Feature:22 - Browser launched
 2025-11-05 13:47:44 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:20:20 INFO  Feature:22 - Browser launched
+2025-11-13 08:20:21 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:20:33 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:20:35 INFO  Loginpage:65 - Login button clicked.
+2025-11-13 08:20:46 INFO  Feature:22 - Browser launched
+2025-11-13 08:20:46 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:20:56 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:20:57 INFO  Loginpage:65 - Login button clicked.
+2025-11-13 08:21:43 INFO  Feature:22 - Browser launched
+2025-11-13 08:21:51 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:21:51 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:21:52 INFO  Loginpage:65 - Login button clicked.
+2025-11-13 08:21:58 INFO  Feature:22 - Browser launched
+2025-11-13 08:22:21 INFO  Feature:22 - Browser launched
+2025-11-13 08:22:35 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:22:36 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:22:37 INFO  Loginpage:65 - Login button clicked.
+2025-11-13 08:22:52 INFO  Feature:22 - Browser launched
+2025-11-13 08:23:02 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:23:03 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:23:04 INFO  Loginpage:65 - Login button clicked.
+2025-11-13 08:24:09 INFO  Feature:22 - Browser launched
+2025-11-13 08:24:18 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:24:19 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:24:21 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 08:26:09 INFO  Feature:22 - Browser launched
+2025-11-13 08:26:10 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:26:16 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:26:17 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 08:26:25 INFO  Feature:22 - Browser launched
+2025-11-13 08:26:34 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:26:35 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:26:35 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 08:26:54 INFO  Feature:22 - Browser launched
+2025-11-13 08:27:01 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:27:01 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:27:02 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 08:27:14 INFO  Feature:22 - Browser launched
+2025-11-13 08:27:23 INFO  Feature:28 - Homepage loaded
+2025-11-13 08:27:24 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 08:27:25 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 09:35:07 INFO  Feature:22 - Browser launched
+2025-11-13 09:35:09 INFO  Feature:28 - Homepage loaded
+2025-11-13 09:35:20 INFO  Loginpage:54 - Profile button clicked.
+2025-11-13 09:35:22 INFO  Loginpage:63 - Login button clicked.
+2025-11-13 09:35:36 INFO  Feature:22 - Browser launched
+2025-11-13 12:16:57 INFO  Feature:22 - Browser launched
+2025-11-13 12:16:58 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:16:58 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:17:06 INFO  Feature:22 - Browser launched
+2025-11-13 12:17:15 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:17:16 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:17:17 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:17:17 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:17:18 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:17:18 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:17:18 INFO  Feature:36 - Login page opened
+2025-11-13 12:17:19 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:17:19 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-13 12:17:20 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:17:20 INFO  Feature:60 - Clicked login button
+2025-11-13 12:17:20 INFO  Feature:49 - Login successful
+2025-11-13 12:17:45 INFO  Feature:22 - Browser launched
+2025-11-13 12:17:45 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:17:52 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:18:14 INFO  Feature:22 - Browser launched
+2025-11-13 12:18:23 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:18:24 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:18:24 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:18:24 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:18:26 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:18:26 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:18:26 INFO  Feature:36 - Login page opened
+2025-11-13 12:18:27 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:18:27 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-13 12:18:27 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:18:27 INFO  Feature:60 - Clicked login button
+2025-11-13 12:18:37 INFO  Loginpage:111 - Error message: Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.
+2025-11-13 12:18:49 INFO  Feature:22 - Browser launched
+2025-11-13 12:18:49 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:18:56 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:18:56 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:18:56 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:18:57 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:18:57 INFO  Feature:36 - Login page opened
+2025-11-13 12:18:58 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:18:58 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-13 12:18:58 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:18:58 INFO  Feature:60 - Clicked login button
+2025-11-13 12:18:58 INFO  Feature:49 - Login successful
+2025-11-13 12:20:37 INFO  Feature:22 - Browser launched
+2025-11-13 12:20:39 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:20:44 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:20:44 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:20:44 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:20:46 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:20:46 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:20:46 INFO  Feature:36 - Login page opened
+2025-11-13 12:20:47 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:20:47 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-13 12:20:47 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:20:47 INFO  Feature:60 - Clicked login button
+2025-11-13 12:20:58 INFO  Loginpage:111 - Error message: Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.
+2025-11-13 12:20:58 INFO  Feature:53 - Error message displayed: Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.
+2025-11-13 12:21:09 INFO  Feature:22 - Browser launched
+2025-11-13 12:21:10 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:21:16 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:21:17 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:21:17 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:21:19 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:21:19 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:21:19 INFO  Feature:36 - Login page opened
+2025-11-13 12:21:19 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:21:19 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-13 12:21:20 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:21:20 INFO  Feature:60 - Clicked login button
+2025-11-13 12:21:20 INFO  Feature:49 - Login successful
+2025-11-13 12:22:25 INFO  Feature:22 - Browser launched
+2025-11-13 12:22:25 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:22:31 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:22:32 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:22:32 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:22:34 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:22:34 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:22:34 INFO  Feature:36 - Login page opened
+2025-11-13 12:22:34 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:22:34 INFO  Feature:42 - Entered credentials: jeeva@gmail.com
+2025-11-13 12:22:35 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:22:35 INFO  Feature:48 - Clicked login button
+2025-11-13 12:22:45 INFO  Loginpage:111 - Error message: Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.
+2025-11-13 12:22:45 INFO  Feature:60 - Error message displayed: Invalid login or password. Remember that login names and passwords are case-sensitive. Please try again.
+2025-11-13 12:22:53 INFO  Feature:22 - Browser launched
+2025-11-13 12:22:56 INFO  Feature:28 - Homepage loaded
+2025-11-13 12:23:01 INFO  Loginpage:74 - Profile button clicked.
+2025-11-13 12:23:02 INFO  Loginpage:82 - Login button clicked.
+2025-11-13 12:23:02 INFO  Loginpage:65 - Overlay iframe removed.
+2025-11-13 12:23:04 WARN  Loginpage:57 - Click intercepted, using JavaScript click.
+2025-11-13 12:23:04 INFO  Loginpage:90 - Email/Password option clicked.
+2025-11-13 12:23:04 INFO  Feature:36 - Login page opened
+2025-11-13 12:23:04 INFO  Loginpage:98 - Credentials entered.
+2025-11-13 12:23:04 INFO  Feature:42 - Entered credentials: jeevamukesh2@gmail.com
+2025-11-13 12:23:05 INFO  Loginpage:104 - Login submitted.
+2025-11-13 12:23:05 INFO  Feature:48 - Clicked login button
+2025-11-13 12:23:05 INFO  Feature:55 - Login successful

@@ -1,113 +1,114 @@
 package pages;
 
-import java.time.Duration;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import utilities.CommonMethods;
 
 public class Loginpage extends CommonMethods {
-    protected FluentWait<WebDriver> wait;
     Logger log = Logger.getLogger(Loginpage.class);
-    
-    @FindBy(xpath = "//div[@data-test-id='main-nav-bar']//button[@data-uds-child=\"popover-trigger\"]")
+
+    @FindBy(xpath = "//div[@data-test-id='main-nav-bar']//button[@data-uds-child='popover-trigger']")
     private WebElement profile;
-    
-    @FindBy(xpath = "//div[@data-uds-child=\"popover-body\"]")
+
+    @FindBy(xpath = "//div[@data-uds-child='popover-body']")
     private WebElement box1;
 
-    @FindBy(xpath = "//button[@data-test-id=\"login-button\"]")
+    @FindBy(xpath = "//button[@data-test-id='login-button']")
     private WebElement loginbutton;
-    
-    @FindBy(xpath = "//div[@data-uds-child=\"popover-body\"]")
-    private WebElement box2;
-    
-    @FindBy(xpath = "//button[@data-test-id=\"otp-login-with-email-password\"]")
+
+    @FindBy(xpath = "//button[@data-test-id='otp-login-with-email-password']")
     private WebElement emailpass;
-    
-    @FindBy(xpath = "//div[@data-uds-child=\"popover-body\"]")
-    private WebElement box3;
-    
+
     @FindBy(xpath = "//input[@id='email']")
     private WebElement email;
-    
+
     @FindBy(xpath = "//input[@id='password']")
     private WebElement pass;
-    
-    @FindBy(xpath = "//button[@type=\"submit\"]")
+
+    @FindBy(xpath = "//button[@type='submit']")
     private WebElement loginapp;
-    
-    @FindBy(xpath = "//p[contains(text(),\"Enter your email and password to log in\")]")
+
+    @FindBy(xpath = "//p[contains(text(),'Enter your email and password to log in')]")
     private WebElement form;
-    
+
     @FindBy(xpath = "//p[@data-test-id=\"login-form-error-content\"]")
     private WebElement error;
-   
+    
+    @FindBy(id="sf-connect2-companion")
+    WebElement iframe;
+
+    protected WebDriver dr;
+
     public Loginpage(WebDriver dr) {
         this.dr = dr;
-        this.wait = new FluentWait<>(dr)
-                .withTimeout(Duration.ofSeconds(30))       // Total wait time
-                .pollingEvery(Duration.ofMillis(100))      // Polling interval
-                .ignoring(NoSuchElementException.class);
-
         PageFactory.initElements(dr, this);
-        PropertyConfigurator.configure("src/test/resources/log4j.properties");
+        PropertyConfigurator.configure("src\\test\\resources\\log4j.properties");
     }
-    
-    public void profile() throws InterruptedException {
-    	wait.until(ExpectedConditions.elementToBeClickable(profile));
-    	profile.click();
-    	Thread.sleep(5000);
+
+    private void safeClick(WebElement element) {
+        try {
+            fluentwait(dr, element, 10, "clickable");
+            element.click();
+        } catch (ElementClickInterceptedException e) {
+            log.warn("Click intercepted, using JavaScript click.");
+            ((JavascriptExecutor) dr).executeScript("arguments[0].click();", element);
+        }
     }
-    
-    public void loginclick() throws InterruptedException {
-    	wait.until(ExpectedConditions.visibilityOf(box1));
-    	Actions act=new Actions(dr);
-    	act.moveToElement(box1).perform();
-    	JavascriptExecutor js = (JavascriptExecutor) dr;
-    	js.executeScript("arguments[0].scrollIntoView(true)", loginbutton);
-        wait.until(ExpectedConditions.elementToBeClickable(loginbutton));
-        loginbutton.click();
+
+    private void removeOverlayIfPresent() {
+        try {
+            ((JavascriptExecutor) dr).executeScript("arguments[0].style.display='none';", iframe);
+            log.info("Overlay iframe removed.");
+        } catch (NoSuchElementException e) {
+            log.info("No overlay iframe found.");
+        }
     }
-    
-    public void credentialslink() throws InterruptedException {
-    	Actions act=new Actions(dr);
-    	act.moveToElement(box2).perform();
-    	Thread.sleep(2000);
-        wait.until(ExpectedConditions.elementToBeClickable(emailpass));
-        emailpass.click();
+
+    public void clickProfile() {
+        fluentwait(dr, profile, 10, "clickable");
+        safeClick(profile);
+        log.info("Profile button clicked.");
     }
-    
-    public void credentialsdata(String emailid, String password) throws InterruptedException {
-    	Actions act=new Actions(dr);
-    	act.moveToElement(box3).perform();
-    	Thread.sleep(2000);
-    	email.sendKeys(emailid);
-    	pass.sendKeys(password);
+
+    public void loginclick() {
+        Actions act = new Actions(dr);
+        act.moveToElement(box1).perform();
+        scrollIntoView(loginbutton);
+        safeClick(loginbutton);
+        log.info("Login button clicked.");
     }
-    
+
+    public void credentialslink() {
+        removeOverlayIfPresent();
+        Actions act = new Actions(dr);
+        act.moveToElement(emailpass).perform();
+        safeClick(emailpass);
+        log.info("Email/Password option clicked.");
+    }
+
+    public void credentialsdata(String emailId, String password) {
+        fluentwait(dr, email, 10, "visibility");
+        email.sendKeys(emailId);
+        fluentwait(dr, pass, 10, "visibility");
+        pass.sendKeys(password);
+        log.info("Credentials entered.");
+    }
+
     public void submitlogin() {
-    	JavascriptExecutor js = (JavascriptExecutor) dr;
-    	js.executeScript("arguments[0].scrollIntoView(true)", loginapp);
-        wait.until(ExpectedConditions.elementToBeClickable(loginapp));
-        loginapp.click();
+        scrollIntoView(loginapp);
+        safeClick(loginapp);
+        log.info("Login submitted.");
     }
 
-	public String getErrorMessage() {
-		JavascriptExecutor js = (JavascriptExecutor) dr;
-    	js.executeScript("arguments[0].scrollIntoView(true)", form);
-		return error.getText();
-	}
-
+    public String getErrorMessage() {
+        scrollIntoView(form);
+        fluentwait(dr, error, 5, "visibility");
+        String errorMsg = error.getText().trim();
+        log.info("Error message: " + errorMsg);
+        return errorMsg;
+    }
 }
